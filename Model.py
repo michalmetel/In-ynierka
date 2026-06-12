@@ -1,1 +1,0 @@
-print('Hello world!\nLet\'s start writing thesis!')
